@@ -6,7 +6,8 @@ Null Resource 👻 - Provisioner 🛠️: A placeholder (👻) that triggers cus
 
 Terragrunt 🚀: A booster for Terraform, helping manage multiple environments and keep code clean.
 
-Terraform Lifecycle 🔄: The stages a resource goes through: creation, reading, updating, and deletion.
+Terraform Lifecycle 🔄: The stages a resource goes through: creation, reading, updating, and deletion.Terragrunt = Terraform + automation + reusability + environment control
+(Jaise ek smart DevOps assistant jo Terraform ko efficient banata hai)
 
 Meta Arguments ⚙️: Special settings to fine-tune how Terraform manages your resources.
 
