@@ -4,10 +4,10 @@ State File 📝: Terraform's blueprint and memory, keeping track of your created
 
 Null Resource 👻 - Provisioner 🛠️: A placeholder (👻) that triggers custom actions (🛠️) on your other resources.
 
-Terragrunt 🚀: A booster for Terraform, helping manage multiple environments and keep code clean.
-
-Terraform Lifecycle 🔄: The stages a resource goes through: creation, reading, updating, and deletion.Terragrunt = Terraform + automation + reusability + environment control
+Terragrunt 🚀: A booster for Terraform, helping manage multiple environments and keep code clean.Terragrunt = Terraform + automation + reusability + environment control
 (Jaise ek smart DevOps assistant jo Terraform ko efficient banata hai)
+
+Terraform Lifecycle 🔄: The stages a resource goes through: creation, reading, updating, and deletion.
 
 Meta Arguments ⚙️: Special settings to fine-tune how Terraform manages your resources.
 
